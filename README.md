@@ -14,162 +14,89 @@
 
 <hr/>
 
-<h2>📊 Coding Skills Dashboard</h2>
-
-<h3>💻 Programming Languages</h3>
-
-<table>
+<table width="100%">
 <tr>
-<td>Python</td>
-<td>
-<progress value="90" max="100"></progress> 90%
-</td>
-</tr>
 
-<tr>
-<td>Java</td>
-<td>
-<progress value="95" max="100"></progress> 85%
-</td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td>JavaScript</td>
-<td>
-<progress value="85" max="100"></progress> 85%
-</td>
-</tr>
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-95%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-85%25-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-80%25-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-<tr>
-<td>Kotlin</td>
-<td>
-<progress value="85" max="100"></progress> 75%
 </td>
-</tr>
 
-<tr>
-<td>Dart</td>
-<td>
-<progress value="80" max="100"></progress> 80%
+<td width="50%" valign="top">
+
+### 🌐 Web & Mobile Development
+![Full Stack](https://img.shields.io/badge/Full--Stack-90%25-0A66C2?style=for-the-badge)
+![Mobile Apps](https://img.shields.io/badge/Mobile%20Apps-90%25-34A853?style=for-the-badge)
+![API Design](https://img.shields.io/badge/API%20Design-88%25-6F42C1?style=for-the-badge)
+![Cross Platform](https://img.shields.io/badge/Cross--Platform-90%25-FF6F00?style=for-the-badge)
+
 </td>
+
 </tr>
 </table>
 
----
+<br/>
 
-<h3>🌐 Web & Mobile Development</h3>
-
-<table>
+<table width="100%">
 <tr>
-<td>Full-Stack Web Development</td>
-<td><progress value="90" max="100"></progress> 88%</td>
-</tr>
 
-<tr>
-<td>Mobile App Development</td>
-<td><progress value="90" max="100"></progress> 90%</td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td>API Design & Integration</td>
-<td><progress value="88" max="100"></progress> 85%</td>
-</tr>
+### 📊 Data & Analytics
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-90%25-1F6FEB?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-85%25-2EA043?style=for-the-badge)
+![Visualization](https://img.shields.io/badge/Visualization-85%25-F85149?style=for-the-badge)
 
-<tr>
-<td>Cross-Platform Frameworks</td>
-<td><progress value="90" max="100"></progress> 90%</td>
-</tr>
-</table>
+</td>
 
----
+<td width="50%" valign="top">
 
-<h3>📊 Data & Analytics</h3>
+### ⚙️ Engineering Practices
+![Algorithms](https://img.shields.io/badge/Algorithms%20%26%20DS-90%25-8B5CF6?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-90%25-EC4899?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-85%25-F59E0B?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git%20%26%20Version%20Control-90%25-181717?style=for-the-badge&logo=git&logoColor=white)
 
-<table>
-<tr>
-<td>Data Cleaning & Processing</td>
-<td><progress value="90" max="100"></progress> 85%</td>
-</tr>
+</td>
 
-<tr>
-<td>Exploratory Data Analysis</td>
-<td><progress value="85" max="100"></progress> 80%</td>
-</tr>
-
-<tr>
-<td>Data Visualization</td>
-<td><progress value="85" max="100"></progress> 75%</td>
 </tr>
 </table>
 
----
+<hr/>
 
-<h3>⚙️ Software Engineering Practices</h3>
-
-<table>
-<tr>
-<td>Algorithms & Data Structures</td>
-<td><progress value="90" max="100"></progress> 80%</td>
-</tr>
-
-<tr>
-<td>Object-Oriented Design</td>
-<td><progress value="90" max="100"></progress> 85%</td>
-</tr>
-
-<tr>
-<td>System Design (Foundations)</td>
-<td><progress value="85" max="100"></progress> 70%</td>
-</tr>
-
-<tr>
-<td>Git & Version Control</td>
-<td><progress value="90" max="100"></progress> 90%</td>
-</tr>
-</table>
-
----
-
-<h2>🛠️ Tech Stack</h2>
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40"/>
-</p>
-
----
-
-<h2>🎯 Current Focus</h2>
-
-<ul>
-  <li>🚀 Production-ready web & mobile applications</li>
-  <li>🧠 Advanced algorithms & system design</li>
-  <li>📊 Real-world data analysis projects</li>
-  <li>🎓 Academic + technical preparation for University of Trento</li>
-</ul>
-
----
-
-<h2>📫 Connect With Me</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourname">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="38"/>
 </p>
 
 <hr/>
 
+<h2>🎯 Current Focus</h2>
+
+<ul>
+  <li>🚀 Production-grade web & mobile applications</li>
+  <li>🧠 Advanced algorithms & system design</li>
+  <li>📊 Real-world data analysis projects</li>
+  <li>🎓 Academic & technical preparation for University of Trento</li>
+</ul>
+
+<hr/>
+
 <p align="center">
-  ⚡ <b>Disciplined. Data-driven. Global mindset.</b>
+  ⚡ <b>Professional • Skill-Driven • Global Mindset</b>
 </p>
