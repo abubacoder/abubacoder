@@ -1,67 +1,65 @@
-Hi, I’m **Abdulatif** 👨‍💻  
-A **Full-Stack Developer**, **Mobile App Programmer**, and **Data Analyst**  
-I build modern, scalable **websites** and **mobile applications**, turning ideas into real products 🚀
+<h1 align="center">Hi 👋, I'm Abdulatif</h1>
+<h3 align="center">Full-Stack Developer • Mobile App Programmer • Data Analyst</h3>
+
+<p align="center">
+  I build modern, scalable <b>websites</b> and <b>mobile applications</b><br/>
+  Turning ideas into real digital products 🚀
+</p>
 
 ---
 
-## 🔭 What I do
+<div align="center">
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="40" />
+</div>
 
-- 🌐 Develop full-stack web applications  
-- 📱 Build cross-platform mobile apps  
-- 📊 Analyze data and create meaningful insights  
-- ⚙️ Focus on clean code, performance, and user experience  
+<br/>
 
----
+<div align="center">
+  <!-- Frameworks -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" />
+</div>
 
-## 🛠️ Tech Stack
+<br/>
 
-### 💻 Programming Languages
-- Python  
-- Java  
-- JavaScript  
-- Kotlin  
-- Dart  
-
-### 📱 Mobile & Web Frameworks
-- Flutter  
-- React Native  
-
-### 🎨 Design & Styling
-- CSS  
-- SASS  
-- Tailwind CSS  
-
----
-
-## 🚀 What I’m currently working on
-
-- 🔨 Web & mobile applications  
-- 📈 Improving data analysis and backend skills  
-- 🌱 Learning advanced system design and architecture  
+<div align="center">
+  <!-- Design -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
+</div>
 
 ---
 
-## 📫 How to reach me
-
-- 📧 Email: tohirjonovabdulatif666@gmail.com  
-- 💼 LinkedIn: coming soon
-- 🌐 Portfolio: coming soon  
+## 🚀 What I Do
+- 🌐 Full-stack web development  
+- 📱 Cross-platform mobile apps (Flutter, React Native)  
+- 📊 Data analysis & insights  
+- ⚙️ Clean code, performance & UX focused  
 
 ---
 
-⭐️ *Always learning. Always building.*
+## 📫 How to Reach Me
 
-<!--
-**abubacoder/abubacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yourname" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  ⭐ Always learning • Always building
+</p>
