@@ -43,8 +43,8 @@ I build modern, scalable **websites** and **mobile applications**, turning ideas
 
 ## 📫 How to reach me
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: linkedin.com/in/yourname  
+- 📧 Email: tohirjonovabdulatif666@gmail.com  
+- 💼 LinkedIn: coming soon
 - 🌐 Portfolio: coming soon  
 
 ---
