@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🎓 Goal: Computer Science @ <b>University of Trento, Italy</b> 🇮🇹
+  🎓 Goal: Computer Science <b></b> 🇮🇹
 </p>
 
 <hr/>
@@ -92,7 +92,7 @@
   <li>🚀 Production-grade web & mobile applications</li>
   <li>🧠 Advanced algorithms & system design</li>
   <li>📊 Real-world data analysis projects</li>
-  <li>🎓 Academic & technical preparation for University of Trento</li>
+  <li>🎓 Academic & technical preparation</li>
 </ul>
 
 <hr/>
