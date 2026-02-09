@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  🎓 Goal: Computer Science <b></b> 🇮🇹
-</p>
+  🎓 Goal: Computer Science <b></b> </p>
 
 <hr/>
 
